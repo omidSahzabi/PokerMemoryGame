@@ -3,7 +3,7 @@ in this project we have made a memory game yousing Ract js and css.
 
 ![memory game](c:\Users\omidp\AppData\Local\Temp\poker-game-casiono-online-web-background-template-for-internet-illustration-free-vector.jpg)
 
-# yoused :
+# used :
 - react js 
 - html 
 - css
