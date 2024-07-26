@@ -21,4 +21,4 @@ npm install
 > shout out to OpenCode youtube channel that i learned this from.
 >you can check it to for more information.
 
-__omid panahiyan sahzabi - full house &copy; 2024___
+__omid panahiyan sahzabi - full house &copy; 2024_
